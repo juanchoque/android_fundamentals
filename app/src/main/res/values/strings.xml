@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Code Formas</string>
+    <string name="txt_acept">Aceptar</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Mapa</string>
+    <string name="title_dashboard">Avisos</string>
+    <string name="title_notifications">Mis Avisos</string>
+</resources>
